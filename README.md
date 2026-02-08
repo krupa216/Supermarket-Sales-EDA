@@ -1,7 +1,10 @@
 ## Supermarket Sales EDA
 
+## problem statement:
+  Retail supermarkets generate large volumes of transactional data, but without analysis it is difficult to understand sales trends, customer behavior, and branch performance. This project analyzes supermarket sales data to extract insights that support better business decision-making.
+
 Project Overview: 
-This project is about Exploratory Data Analysis on a supermarket sales dataset & data visualization.
+This project focuses on Exploratory Data Analysis of a supermarket sales dataset and data visualization to extract insights from large datasets for data-driven decision-making.
 
 ## Tools Used
 - Power BI (Dashboard & DAX) was used to build an interactive dashboard.  
